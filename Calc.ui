@@ -79,7 +79,7 @@
           </property>
           <property name="styleSheet">
            <string notr="true">background-color: rgb(255, 255, 255);
-border-color: rgb(134, 134, 134);</string>
+color: rgb(0, 0, 0);</string>
           </property>
           <property name="inputMethodHints">
            <set>Qt::ImhPreferNumbers</set>
@@ -115,7 +115,8 @@ border-color: rgb(134, 134, 134);</string>
            </font>
           </property>
           <property name="styleSheet">
-           <string notr="true">background:rgb(255, 255, 255)</string>
+           <string notr="true">background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);</string>
           </property>
           <property name="inputMethodHints">
            <set>Qt::ImhPreferNumbers</set>
@@ -156,7 +157,8 @@ border-color: rgb(134, 134, 134);</string>
          <enum>Qt::RightToLeft</enum>
         </property>
         <property name="styleSheet">
-         <string notr="true">background-color: rgb(255, 255, 255);</string>
+         <string notr="true">background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);</string>
         </property>
         <property name="inputMethodHints">
          <set>Qt::ImhNone</set>
